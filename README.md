@@ -1,4 +1,4 @@
-# 🤖 Tugas 3
+# 🤖 Tugas 3 - Pemrograman Jaringan (C) - 5025221034
 
 Repositori ini berisi tugas 3 yang dibuat sebagai bagian dari tugas mata kuliah Praktikum Pemrograman Jaringan (Kelas C).
 
